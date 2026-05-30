@@ -1,2 +1,2 @@
-# Python
-This is a repository of my core Python practice code.
+# C++
+This is a repository of my core C++ practice code.
